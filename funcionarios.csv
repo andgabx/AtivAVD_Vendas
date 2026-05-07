@@ -1,0 +1,21 @@
+﻿ID_Funcionario,Departamento,Filial,Salario_Mensal,Anos_Empresa,Status
+3001,TI,São Paulo,7500.00,5,Ativo
+3002,Financeiro,Rio de Janeiro,5200.00,2,Ativo
+3003,Marketing,São Paulo,4100.00,1,Ativo
+3004,Vendas,Rio de Janeiro,3800.00,3,Ativo
+3005,TI,Belo Horizonte,8900.00,8,Ativo
+3006,Financeiro,São Paulo,6500.00,4,Ativo
+3007,Marketing,Rio de Janeiro,3500.00,0,Ativo
+3008,Vendas,São Paulo,4300.00,6,Ativo
+3009,TI,Rio de Janeiro,6800.00,3,Desligado
+3010,Financeiro,Belo Horizonte,5900.00,1,Ativo
+3011,Marketing,São Paulo,5500.00,5,Ativo
+3012,Vendas,Rio de Janeiro,3100.00,2,Ativo
+3013,TI,São Paulo,9200.00,10,Ativo
+3014,Financeiro,Rio de Janeiro,4500.00,7,Ativo
+3015,Marketing,Belo Horizonte,3700.00,2,Desligado
+3016,Vendas,São Paulo,5100.00,1,Ativo
+3017,TI,Rio de Janeiro,7800.00,4,Ativo
+3018,Financeiro,São Paulo,8100.00,9,Ativo
+3019,Marketing,Rio de Janeiro,6000.00,3,Ativo
+3020,Vendas,Belo Horizonte,4900.00,5,Ativo
